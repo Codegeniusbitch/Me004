@@ -23,7 +23,7 @@ case 4:
 printf("Answer:%.2f", num1/num2);
 break;
 default:
-printf("Incorrect input");
+printf("Incorrect input!");
 }
 return 0;
 }
